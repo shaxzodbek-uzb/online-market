@@ -1,5 +1,5 @@
 <?php
-namespace App\Fields\Store;
+namespace OnlineMarket\Fields\Store;
 
 
 class Field {

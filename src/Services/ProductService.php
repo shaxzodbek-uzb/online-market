@@ -1,9 +1,9 @@
 <?php
 namespace OnlineMarket\Services;
 
-use App\Fields\Store\InputField;
-use App\Fields\Store\NumberField;
-use App\Services\Service;
+use OnlineMarket\Fields\Store\InputField;
+use OnlineMarket\Fields\Store\NumberField;
+use OnlineMarket\Services\Service;
 use Illuminate\Support\Str;
 use OnlineMarket\Models\Product;
 

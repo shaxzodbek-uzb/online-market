@@ -1,5 +1,5 @@
 <?php
-namespace App\Services;
+namespace OnlineMarket\Services;
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Validator;

@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Fields\Store;
+namespace OnlineMarket\Fields\Store;
 
 trait ValidationTrait {
     
